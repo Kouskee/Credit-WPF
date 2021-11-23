@@ -1,0 +1,15 @@
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\bin\Debug\Credit.exe.config
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\bin\Debug\Credit.exe
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\bin\Debug\Credit.pdb
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.csproj.AssemblyReference.cache
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\MainWindow.g.cs
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\App.g.cs
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit_MarkupCompile.cache
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit_MarkupCompile.lref
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\MainWindow.baml
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.g.resources
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.Properties.Resources.resources
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.csproj.GenerateResource.cache
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.csproj.CoreCompileInputs.cache
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.exe
+C:\Users\logi4\source\repos\CalculatorEconomicsWPF-main\Credit\obj\Debug\Credit.pdb
